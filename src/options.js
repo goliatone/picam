@@ -19,5 +19,9 @@ module.exports = {
   raw:'-r',
   verbose: '-v',
   encoding:'-e',
+  n:' -n',
+  nopreview:'--nopreview',
+  t:'-t',
+  timeout:'--timeout',
   quality:'-q'
 };
